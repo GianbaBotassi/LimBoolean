@@ -1,0 +1,74 @@
+body{
+  background-image: url(Foto/background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-top: 25px;
+  font-family: Arial;
+  line-height: 2px;
+}
+.container{
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  width: 1000px;
+  height:600px;
+  margin:auto;
+  padding: 75px 100px;
+}
+#logo{
+  height: 100px;
+  width: 250px;
+}
+header{
+  text-align: center;
+  color: #2EFB01;
+}
+nav{
+  background-color: #2EFB01;
+  display: block;
+  text-align: center;
+  padding:10px;
+}
+main{
+  color: white;
+  margin-top: 3px;
+}
+.white-square{
+  background-color: white;
+  content: "";
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+  margin: 2px 8px 0 0;
+  border-radius: 2px;
+}
+h3{
+  display: inline-block;
+  margin-bottom: 15px;
+}
+.Gino22 div, .Mike24 div, .Fede154 div{
+  line-height: normal;
+}
+.charge-Gino22{
+content: "";
+background-color: orange;
+border-radius: 3px;
+width:40%;
+height: 20px;
+}
+.charge-Mike24{
+content: "";
+background-color: #2EFB01;
+border-radius: 3px;
+width:60%;
+height: 20px;
+}
+.charge-Fede154{
+content: "";
+background-color: red;
+border-radius: 3px;
+width:20%;
+height: 20px;
+}
+.luogo{
+  margin-bottom: 6px;
+}
